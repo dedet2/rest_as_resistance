@@ -1,0 +1,5 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { color-scheme: dark; }
+body { @apply bg-gradient-to-b from-purple-900 via-indigo-900 to-black text-white; }
